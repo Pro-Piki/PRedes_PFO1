@@ -9,9 +9,9 @@ modularización y manejo de errores.
 Utilizar los comentarios para explicar tus configuraciones en el servidor.
 
 ## Estructura
-• `server.py`: Inicializa el socket servidor, recibe mensajes de clientes y guarda los mensajes en SQLite.
-• `client.py`: El usuario puede enviar mensajes al servidor hasta que escriba éxito o exito para terminar.
-• `ver_mensajes.py`: Permite visualizar los mensajes que se guardan en la base de datos.
+- `server.py`: Inicializa el socket servidor, recibe mensajes de clientes y guarda los mensajes en SQLite.
+- `client.py`: El usuario puede enviar mensajes al servidor hasta que escriba éxito o exito para terminar.
+- `ver_mensajes.py`: Permite visualizar los mensajes que se guardan en la base de datos.
 
 ## Instrucciones
 
